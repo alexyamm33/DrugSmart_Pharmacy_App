@@ -11,7 +11,7 @@ booked appointments on a table ordered by date.
 turning on their email app on their phones.                                                                                             
 4. Retail non-prescription products: With Google Firestore Storage and Swift URLSessions, pharmacy owners can upload images and decriptions of their products on an e-commerce platform.                                                                                           
                                                                                                                                 
-The majority of the backend code has been completed, what's left to do include showcasing the products to patients, connect Stripe API,
+The majority of the backend code has been completed, what's left to do include showcasing the products to patients, connect Paypal API,
 and design a UI that fits the theme. This is my first time programming with Swift and it has been a challenge learning the Firebase API 
 and configure the code to the model-view-controller design pattern. I will be updating this git constantly and hope to soon submit this 
 project to Apple Store once everything is finished. 
