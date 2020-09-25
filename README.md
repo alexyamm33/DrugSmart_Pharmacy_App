@@ -1,5 +1,5 @@
 # DrugSmart_Pharmacy_App
-As Covid-19 spreaded globally in March, 2019, pharmacies in Ontario faced a challenge that is unheard of, that is the inability to 
+As Covid-19 spreaded globally in March, 2020, pharmacies in Ontario faced a challenge that is unheard of, that is the inability to 
 communicate with its patients due to the shutdown.                                                                                  
 In the summer of social distancing, I was offered by my previous employer an opportunity to build an iOS application for a local 
 pharmacy that allows the following functions:                                                                                              
